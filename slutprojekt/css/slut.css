@@ -1,0 +1,20 @@
+img{
+    height: 300px;
+    width: 500px;
+}
+.container{
+ align-self: center;
+left: 4%;
+position: relative;
+ margin: auto;
+}
+
+body{
+    align-content: center;
+    background-color: aquamarine;
+}
+
+.card-header{
+    align-content: center;
+    text-align: center;
+}
